@@ -36,4 +36,4 @@ I enjoy turning ideas into modern web interfaces using HTML, CSS, JavaScript, an
 
 ### 📫 Connect with Me
 
-- LinkedIn: [My LinkedIn Profile](ضع رابط LinkedIn هنا)
+- LinkedIn: [My LinkedIn Profile](www.linkedin.com/in/taha-hafez-192650377)
