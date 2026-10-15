@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Taha 👋
 
-<!--
-**hafeztaha418-a11y/hafeztaha418-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Front-End Developer
 
-Here are some ideas to get you started:
+I'm a Front-End Developer passionate about building responsive, user-friendly, and interactive web experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into modern web interfaces using HTML, CSS, JavaScript, and Bootstrap. I'm continuously improving my JavaScript skills and expanding my knowledge of front-end development.
+
+### 🛠️ Technologies & Tools
+
+- HTML5
+- CSS3
+- JavaScript
+- Bootstrap
+- React.js
+- Swiper.js
+- Git & GitHub
+- Responsive Web Design
+
+### 🚀 Featured Projects
+
+- **City Car** — A taxi booking website inspired by ride-hailing platforms.
+- **Khatwa Taaleemeya** — An educational website.
+- **Meet Uply** — A platform for discovering events and conferences.
+- **Analyx** — A website focused on social media presence and content creation.
+- **Aai** — A website that helps users understand and explore AI tools.
+- **Digital Marketing Agency** — A landing page for digital marketing services.
+- **Business Solutions** — A responsive landing page for business services.
+
+### 🎯 Current Goals
+
+- Strengthening my JavaScript fundamentals.
+- Building better and more interactive web applications.
+- Improving my front-end development skills.
+- Working on real-world projects and collaborating with others.
+
+### 📫 Connect with Me
+
+- LinkedIn: [My LinkedIn Profile](ضع رابط LinkedIn هنا)
