@@ -4,7 +4,7 @@
 
 I'm a Front-End Developer passionate about building responsive, user-friendly, and interactive web experiences.
 
-I enjoy turning ideas into modern web interfaces using HTML, CSS, JavaScript, and Bootstrap. I'm continuously improving my JavaScript skills and expanding my knowledge of front-end development.
+I enjoy turning ideas into modern web interfaces using HTML, CSS, JavaScript, React JS and Bootstrap. I'm continuously improving my JavaScript skills and expanding my knowledge of front-end development.
 
 ### 🛠️ Technologies & Tools
 
